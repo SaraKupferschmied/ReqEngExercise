@@ -1,1 +1,2 @@
 Textfile from user A 
+Updated from user B
