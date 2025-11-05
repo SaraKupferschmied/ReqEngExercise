@@ -1,1 +1,3 @@
 Textfile from user A 
+
+conflicting change from A
