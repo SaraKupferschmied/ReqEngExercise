@@ -1,3 +1,5 @@
 Textfile from user A 
+Updated from user B
 
+Some conflicting change from B
 conflicting change from A
